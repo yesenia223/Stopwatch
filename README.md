@@ -1,3 +1,3 @@
 # Stopwatch
 Stopwatch app Ch.4
-#hi
+![Alt text] (https://github.com/yesenia223/Stopwatch/blob/master/Screenshot/stopwatch.jpg
