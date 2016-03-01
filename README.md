@@ -10,6 +10,6 @@
 <b> Time Screen</b>&nbsp;&nbsp;:penguin:<br><br>
 ![Alt text] (https://github.com/yesenia223/Stopwatch/blob/master/Screenshot/stopwatchnumber.jpg)
 <br><br>
-<b>Implicit Intent Screen</b>&nbsp;&nbsp;:honeybee:<br><br>
+<b></b>&nbsp;&nbsp;:honeybee:<br><br>
 
 
