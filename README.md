@@ -4,7 +4,7 @@
 <b>Deliverables:</b> Completed apps are tested on a device, presented to peers, and uploaded to GitHub for teacher review and grade.
 <br>
 <b> Example screenshots of our completed stopwatch app. </b><br><br>
-<b> Stopwatch App Start Screen</b>&nbsp;&nbsp;:octocat:<brb><br>
+<b> Stopwatch App Start Screen</b>&nbsp;&nbsp;:seal:<brb><br>
 ![Alt text] (https://github.com/yesenia223/Stopwatch/blob/master/Screenshot/stopwatch.jpg)
 <br><br>
 <b> Time Screen</b>&nbsp;&nbsp;:penguin:<br><br>
