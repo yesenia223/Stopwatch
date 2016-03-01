@@ -5,10 +5,10 @@
 <br>
 <b> Example screenshots of our completed stopwatch app. </b><br><br>
 <b> Stopwatch App Start Screen</b>&nbsp;&nbsp;:octocat:<brb><br>
-![Alt text] (https://github.com/yesenia223/Stopwatch/blob/master/Screenshot/stopwatch.jpg"Start screen")
+![Alt text] (https://github.com/yesenia223/Stopwatch/blob/master/Screenshot/stopwatch.jpg)
 <br><br>
 <b> Time Screen</b>&nbsp;&nbsp;:penguin:<br><br>
-![Alt text] (https://github.com/yesenia223/Stopwatch/blob/master/Screenshot/stopwatchnumber.jpg"Time Screen")
+![Alt text] (https://github.com/yesenia223/Stopwatch/blob/master/Screenshot/stopwatchnumber.jpg)
 <br><br>
 <b>Implicit Intent Screen</b>&nbsp;&nbsp;:honeybee:<br><br>
 
