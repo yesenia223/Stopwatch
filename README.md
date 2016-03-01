@@ -3,7 +3,7 @@
 <b>Class:</b> Computer Science Application (CSA) - 2nd year (Sophomore)<br>
 <b>Deliverables:</b> Completed apps are tested on a device, presented to peers, and uploaded to GitHub for teacher review and grade.
 <br>
-<b> Example screenshots of our completed stopwatch app. </b><br><br>
+<b> Example screenshots of our completed stopwatch app: </b><br><br>
 <b> Stopwatch App Start Screen</b>&nbsp;&nbsp;:dog::cherry_blossom:<brb><br>
 ![Alt text] (https://github.com/yesenia223/Stopwatch/blob/master/Screenshot/stopwatch.jpg)
 <br><br>
